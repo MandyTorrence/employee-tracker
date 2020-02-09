@@ -6,7 +6,6 @@ Flitering employees, their managers and their departments
 
 Design the following database schema containing three tables:
 
-![Database Schema](Assets/schema.png)
 
 * **department**:
 
