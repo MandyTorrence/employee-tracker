@@ -1,2 +1,2 @@
-# employee-tracker
-Employee Tracker
+# Employee Tracker
+Flitering employees, their managers and their departments
